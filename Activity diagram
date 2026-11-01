@@ -1,0 +1,15 @@
+stateDiagram-v2
+    [*] --> AnaSayfa: Kullanıcı Platformu Açar
+    AnaSayfa --> DonemSecimi: YZ Gelişim Evreleri Listelenir
+    DonemSecimi --> VeriSorgulama: Kullanıcı Bir Dönem Seçer (Örn: Derin Öğrenme Çağı)
+    
+    state VeriSorgulama {
+        [*] --> VeriGetir: Döneme Ait Algoritma ve Detayları Çek
+        VeriGetir --> Kontrol: Veri Bulundu mu?
+    }
+
+    Kontrol --> DetayGoster: Evet
+    Kontrol --> HataMesaji: Hayır
+    
+    HataMesaji --> DonemSecimi: Yeniden Seçim Yap
+    DetayGoster --> [*]: Detaylar İncelendi ve Oturum Sonlandı
