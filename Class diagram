@@ -1,0 +1,28 @@
+classDiagram
+    class Era {
+        +String eraId
+        +String eraName
+        +int startYear
+        +int endYear
+        +String description
+        +getEraDetails()
+    }
+
+    class Technology {
+        +String techId
+        +String techName
+        +String developer
+        +int releaseYear
+        +String impact
+        +getTechSummary()
+    }
+
+    class RepositoryManager {
+        +String repoUrl
+        +Date lastUpdated
+        +syncWithGitHub()
+        +fetchData()
+    }
+
+    Era "1" -- "*" Technology : barındırır
+    RepositoryManager "1" -- "*" Era : yönetir
