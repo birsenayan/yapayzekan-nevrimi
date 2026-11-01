@@ -1,0 +1,19 @@
+graph TD
+    %% Aktörler
+    User(("👤 Ziyaretçi / Araştırmacı"))
+    Admin(("👨‍💻 Yönetici / Editör"))
+
+    %% Use Case'ler
+    UC1(("YZ Gelişim Evrelerini İncele"))
+    UC2(("Dönem ve Model Ara / Filtrele"))
+    UC3(("Tarihsel Kilometre Taşlarını Görüntüle"))
+    UC4(("Yeni YZ Dönemi / Modeli Ekle"))
+    UC5(("GitHub Dokümantasyonunu Senkronize Et"))
+
+    %% İlişkiler
+    User --> UC1
+    User --> UC2
+    User --> UC3
+
+    Admin --> UC4
+    Admin --> UC5
