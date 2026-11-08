@@ -45,7 +45,6 @@ Veri sütunları:
 4. Veri analizleri ve grafikler oluşturulur.
 5. Sonuçlar CSV, JSON ve PNG formatlarında kaydedilir.
 
-7. Ekip Katkıları
 
 
 ## 7. Proje Çalışmasını Yürüten Kişi
