@@ -1,0 +1,98 @@
+[
+  {
+    "yil":1950,
+    "gelisme":"Turing'in makine zekâsı makalesi",
+    "alan":"Kuramsal temel",
+    "on_yil":1950
+  },
+  {
+    "yil":1956,
+    "gelisme":"Dartmouth yaz araştırma projesi",
+    "alan":"Araştırma",
+    "on_yil":1950
+  },
+  {
+    "yil":1966,
+    "gelisme":"ELIZA sohbet programı",
+    "alan":"Doğal dil",
+    "on_yil":1960
+  },
+  {
+    "yil":1972,
+    "gelisme":"MYCIN uzman sistemi",
+    "alan":"Uzman sistemler",
+    "on_yil":1970
+  },
+  {
+    "yil":1980,
+    "gelisme":"Uzman sistemlerin yaygınlaşması",
+    "alan":"Uzman sistemler",
+    "on_yil":1980
+  },
+  {
+    "yil":1997,
+    "gelisme":"Deep Blue'nun Kasparov'u yenmesi",
+    "alan":"Oyun ve arama",
+    "on_yil":1990
+  },
+  {
+    "yil":2006,
+    "gelisme":"Derin öğrenme araştırmalarında ivme",
+    "alan":"Makine öğrenmesi",
+    "on_yil":2000
+  },
+  {
+    "yil":2011,
+    "gelisme":"IBM Watson'ın Jeopardy! başarısı",
+    "alan":"Doğal dil",
+    "on_yil":2010
+  },
+  {
+    "yil":2012,
+    "gelisme":"AlexNet'in ImageNet başarısı",
+    "alan":"Derin öğrenme",
+    "on_yil":2010
+  },
+  {
+    "yil":2016,
+    "gelisme":"AlphaGo'nun Lee Sedol'u yenmesi",
+    "alan":"Derin öğrenme",
+    "on_yil":2010
+  },
+  {
+    "yil":2017,
+    "gelisme":"Transformer mimarisinin tanıtılması",
+    "alan":"Dil modelleri",
+    "on_yil":2010
+  },
+  {
+    "yil":2020,
+    "gelisme":"GPT-3'ün yayımlanması",
+    "alan":"Üretken yapay zekâ",
+    "on_yil":2020
+  },
+  {
+    "yil":2022,
+    "gelisme":"ChatGPT'nin kullanıma sunulması",
+    "alan":"Üretken yapay zekâ",
+    "on_yil":2020
+  },
+  {
+    "yil":2023,
+    "gelisme":"GPT-4'ün tanıtılması",
+    "alan":"Çok modlu yapay zekâ",
+    "on_yil":2020
+  },
+  {
+    "yil":2024,
+    "gelisme":"Üretken ve çok modlu modellerde ilerlemeler (gözden geçirilmiş ifade)",
+    "alan":"Çok modlu yapay zekâ",
+    "on_yil":2020
+  },
+  {
+    "yil":2025,
+    "gelisme":"Akıl yürütme ve araç kullanımı odaklı sistemlerin ilerlemesi",
+    "alan":"Akıl yürütme ve ajanlar",
+    "on_yil":2020
+  }
+]
