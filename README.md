@@ -47,11 +47,15 @@ Veri sütunları:
 
 7. Ekip Katkıları
 
-- Proje konusu ve araştırma: [İsim]
-- Veri düzenleme ve analiz: [İsim]
-- Grafik oluşturma: [İsim]
-- Raporlama ve GitHub düzenleme: [İsim]
 
+## 7. Proje Çalışmasını Yürüten Kişi
+
+Bu proje bireysel olarak hazırlanmıştır.
+
+- Proje konusu ve araştırma: Proje sahibi
+- Veri düzenleme ve analiz: Proje sahibi
+- Python kodlama ve grafik oluşturma: Proje sahibi
+- Raporlama ve GitHub düzenleme: Proje sahibi
 8. Kaynakça
 
 Notebook içerisindeki kaynakça bölümünde belirtilen akademik ve kurumsal kaynaklar kullanılmıştır.
@@ -59,5 +63,5 @@ Notebook içerisindeki kaynakça bölümünde belirtilen akademik ve kurumsal ka
 ---
 
 Proje: Yapay Zekânın Gelişim Evrimi
-Ders: Yazılım Mühendisliği Temelleri
+Ders: Araştırma Yöntem ve Teknikleri 
 Dönem: 2026 Güz
